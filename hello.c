@@ -3,7 +3,8 @@
 void main()
 {
 	// For command line git tutorial
-	// Local repository modification
+	// First: GitHub modification
+	// Second: Local repository modification
 
 	printf("hello world\n");
 	printf("Tell your World!\n");
