@@ -12,4 +12,5 @@ void main()
 	printf("4th version\n");
 	printf("5th version in master\n");
 	printf("5th version with hotfix\n");
+	printf("6th version in GitHub\n");
 }
