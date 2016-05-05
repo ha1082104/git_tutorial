@@ -2,6 +2,8 @@
 
 void main()
 {
+	// For command line git tutorial
+	// GitHub modification
 	printf("hello world\n");
 	printf("Tell your World!\n");
 	printf("Wow\n");
